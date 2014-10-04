@@ -15,7 +15,7 @@
 1. Загрузить проект из репозитория git:
 
   ```
-  git clone https://github.com/akonit/lab_7.git
+  git clone https://github.com/akonit/lab7.git
   ```
 2. Перейти в директорию проекта:
 
