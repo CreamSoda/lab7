@@ -15,12 +15,12 @@
 1. Загрузить проект из репозитория git:
 
   ```
-  git clone https://github.com/akonit/lab7.git
+  git clone https://github.com/CreamSoda/lab7.git
   ```
 2. Перейти в директорию проекта:
 
   ```
-  cd lab_7
+  cd lab7
   ```
 3. Выполнить следующую команду:
 
